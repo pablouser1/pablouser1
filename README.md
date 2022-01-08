@@ -10,3 +10,4 @@
 
 ## Misc
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pabloferreiro&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![trakt-github-card](https://trakt-github-card.herokuapp.com/api?username=pablouser1&mode=stats&theme=dark)](https://github.com/pablouser1/trakt-github-card)
