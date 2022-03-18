@@ -39,6 +39,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablouser1&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Entertainment
-[![trakt-github-card](https://trakt-github-card.vercel.app/card?username=pablouser1&mode=watch&theme=dark)](https://github.com/pablouser1/trakt-github-card)
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pabloferreiro&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+[![trakt-github-card](https://trakt-github-card.vercel.app/card?username=pablouser1&mode=watch&theme=dark)](https://github.com/pablouser1/trakt-github-card)
