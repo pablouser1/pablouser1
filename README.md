@@ -7,7 +7,7 @@
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white)
 
-<img src="https://img.shields.io/liberapay/receives/pablouser1.svg?logo=liberapay">
+<img src="https://img.shields.io/liberapay/receives/pablouser1.svg?logo=liberapay"> <img src="https://img.shields.io/liberapay/patrons/pablouser1.svg?logo=liberapay">
 
 🎓 Studying Computer Engineering at the University of Málaga (Spain).
 
