@@ -9,7 +9,6 @@
 
 ![receives](https://img.shields.io/liberapay/receives/pablouser1.svg?logo=liberapay)
 ![patrons](https://img.shields.io/liberapay/patrons/pablouser1.svg?logo=liberapay)
-![views](https://komarev.com/ghpvc/?username=pablouser1&label=Profile%20views&color=0e75b6&style=flat)
 
 🎓 Studying Computer Engineering at the University of Málaga (Spain).
 
