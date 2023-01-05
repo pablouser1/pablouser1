@@ -9,8 +9,13 @@
 
 ![receives](https://img.shields.io/liberapay/receives/pablouser1.svg?logo=liberapay)
 ![patrons](https://img.shields.io/liberapay/patrons/pablouser1.svg?logo=liberapay)
+![views](https://komarev.com/ghpvc/?username=pablouser1&label=Profile%20views&color=0e75b6&style=flat)
 
 🎓 Studying Computer Engineering at the University of Málaga (Spain).
+
+## Stats
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pablouser1&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablouser1&layout=compact&theme=jolly&hide=latte,html,css&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 ### Currently learning
@@ -35,10 +40,6 @@
 ![mariadb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![redis](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
-
-## My stats:
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pablouser1&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablouser1&layout=compact&theme=jolly&hide=latte,html,css&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Entertainment
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pabloferreiro&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
