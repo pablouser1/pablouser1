@@ -13,10 +13,10 @@
 ![patrons](https://img.shields.io/liberapay/patrons/pablouser1.svg?logo=liberapay)
 
 ## Stats
-[![My GitHub stats](https://github-readme-stats-pablouser1.vercel.app/api?username=pablouser1&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-pablouser1.vercel.app/api/top-langs/?username=pablouser1&layout=compact&theme=jolly&hide=latte,html,css,cmake&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pablouser1&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablouser1&layout=compact&theme=jolly&hide=latte,html,css,cmake&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Entertainment
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pabloferreiro&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-[![trakt-github-card](https://trakt-github-card.vercel.app/card?username=pablouser1&mode=watch&theme=dark)](https://github.com/pablouser1/trakt-github-card)
+[![trakt-github-card](https://trakt.pabloferreiro.es/card?username=pablouser1&mode=watch&theme=dark)](https://github.com/pablouser1/trakt-github-card)
