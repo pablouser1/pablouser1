@@ -17,6 +17,8 @@
 [![Top Langs](https://github-readme-stats.pabloferreiro.es/api/top-langs/?username=pablouser1&layout=compact&theme=jolly&hide=latte,html,css,cmake&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Entertainment
+[![backloggd](https://img.shields.io/badge/backloggd-blue.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+)](https://www.backloggd.com/u/pablouser1/games/)
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pabloferreiro&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 [![trakt-github-card](https://trakt.pabloferreiro.es/card?username=pablouser1&mode=watch&theme=dark)](https://github.com/pablouser1/trakt-github-card)
