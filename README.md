@@ -20,5 +20,5 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pabloferreiro&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-[![trakt-github-card](https://trakt.pabloferreiro.es/card?username=pablouser1&mode=watch&theme=dark)](https://github.com/pablouser1/trakt-github-card)
-[![backloggd-github-card](https://backloggd.pabloferreiro.es/card?username=pablouser1&mode=played&theme=dark)](https://github.com/pablouser1/backloggd-github-card)
+[![trakt-github-card](https://gh-cards.pabloferreiro.es/trakt/watch?username=pablouser1&theme=dark)](https://github.com/pablouser1/aio-github-card)
+[![backloggd-github-card](https://gh-cards.pabloferreiro.es/backloggd/played?username=pablouser1&theme=dark)](https://github.com/pablouser1/aio-github-card)
