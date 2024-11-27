@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+profile!;%C2%A1Bienvenido+a+mi+perfil!)](https://git.io/typing-svg)
-
 ## About me
 ![arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![lineage](https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white)
@@ -17,7 +15,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablouser1&layout=compact&theme=jolly&hide=latte,html,css,cmake&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Entertainment
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pabloferreiro&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 [![trakt-github-card](https://gh-cards.pabloferreiro.es/trakt/watch?username=pablouser1&theme=dark)](https://github.com/pablouser1/aio-github-card)
