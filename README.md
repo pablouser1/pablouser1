@@ -15,7 +15,7 @@
 [![Top Langs](https://github-readme-stats.pabloferreiro.es/api/top-langs/?username=pablouser1&layout=compact&theme=jolly&hide=latte,html,css,cmake&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Entertainment
-[![listenbrainz-github-card](http://localhost:8080/listenbrainz/listened?username=pablouser1&theme=dark)](https://github.com/pablouser1/aio-github-card)
+[![listenbrainz-github-card](https://gh-cards.pabloferreiro.es/listenbrainz/listened?username=pablouser1&theme=dark)](https://github.com/pablouser1/aio-github-card)
 
 [![trakt-github-card](https://gh-cards.pabloferreiro.es/trakt/watch?username=pablouser1&theme=dark)](https://github.com/pablouser1/aio-github-card)
 [![backloggd-github-card](https://gh-cards.pabloferreiro.es/backloggd/played?username=pablouser1&theme=dark)](https://github.com/pablouser1/aio-github-card)
