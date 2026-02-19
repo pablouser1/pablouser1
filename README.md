@@ -5,7 +5,7 @@
 ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white)
 
-ℹ️ You can know more about me and my skillsets on [my website](https://pabloferreiro.es/about)
+ℹ️ You can know more about me on [my website](https://pabloferreiro.es)
 
 ![receives](https://img.shields.io/liberapay/receives/pablouser1.svg?logo=liberapay)
 ![patrons](https://img.shields.io/liberapay/patrons/pablouser1.svg?logo=liberapay)
