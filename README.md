@@ -11,4 +11,3 @@
 [![listenbrainz-github-card](https://gh-cards.pabloferreiro.es/listenbrainz/listened?username=pablouser1&theme=dark)](https://github.com/pablouser1/aio-github-card)
 
 [![trakt-github-card](https://gh-cards.pabloferreiro.es/trakt/watch?username=pablouser1&theme=dark)](https://github.com/pablouser1/aio-github-card)
-[![backloggd-github-card](https://gh-cards.pabloferreiro.es/backloggd/played?username=pablouser1&theme=dark)](https://github.com/pablouser1/aio-github-card)
